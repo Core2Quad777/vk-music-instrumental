@@ -53,7 +53,7 @@ First of all, make vk-playlist.txt file. You can do it like this:
 })();
 
 4. Past vk-playlist.txt to same directory
-p.s Thanks https://github.com/fivemru for this code!
+p.s Thanks https://github.com/fivemru for parse code!
 """
 
 from youtubesearchpython import VideosSearch
@@ -86,10 +86,10 @@ music_massive = make_song_massive()
 video_urls = fiend_song(music_massive)
 # I recommend you copy video_urls list, because if it crashed, you can just past this list like constant and dont need to fiend songs again
 print(video_urls)
-# Uncomment this string and delete fiend_song fuction if you need it
+# Delete fiend_song fuction if you need it
 
 for url in video_urls:
-    # music are download at same directory
+    # Music are download at same directory
     try:
         yt = YouTube(url)
         title = yt.title.replace(" ", "_").replace(".", "")  # Remove spaces and dots from the title
