@@ -4,7 +4,6 @@ First of all, make vk-playlist.txt file. You can do it like this:
 1. Go to vk page of you playlist
 2. Click F12
 3. Paste this code and click Enter:
-<code>
 (async () => {
   const scroll = (top) => window.scrollTo({ top });
   const delay = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -52,7 +51,6 @@ First of all, make vk-playlist.txt file. You can do it like this:
   const list = parsePlaylist();
   saveToFile('vk-playlist.txt', list.join('\n'));
 })();
-  </code>
 
 4. Past vk-playlist.txt to same directory
 p.s Thanks https://github.com/fivemru for this code!
