@@ -6,4 +6,5 @@ First of all, make vk-playlist.txt file. You can do it like this:
 3. Paste this code and click Enter:
 https://pastebin.com/q3JYYLq4
 4. Past vk-playlist.txt to same directory
+
 p.s Thanks https://github.com/fivemru for this code!
