@@ -1,5 +1,5 @@
 # vk-music-instrumental
-SImply program that takes list of songs from VK and download there instrumental version
+Simply program that takes list of songs from VK and download there instrumental version
 First of all, make vk-playlist.txt file. You can do it like this:
 1. Go to vk page of you playlist
 2. Click F12
