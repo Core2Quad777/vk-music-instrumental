@@ -7,4 +7,4 @@ First of all, make vk-playlist.txt file. You can do it like this:
 https://pastebin.com/q3JYYLq4
 4. Past vk-playlist.txt to same directory
 
-p.s Thanks https://github.com/fivemru for this code!
+p.s Thanks https://github.com/fivemru for parse code!
