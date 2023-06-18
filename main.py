@@ -54,6 +54,8 @@ First of all, make vk-playlist.txt file. You can do it like this:
 
 4. Past vk-playlist.txt to same directory
 p.s Thanks https://github.com/fivemru for parse code!
+
+Also, you need to install youtube-search-python, pytube and moviepy.
 """
 
 from youtubesearchpython import VideosSearch
