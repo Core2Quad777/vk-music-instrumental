@@ -8,3 +8,5 @@ https://pastebin.com/q3JYYLq4
 4. Past <code>vk-playlist.txt</code> to same directory
 
 p.s Thanks https://github.com/fivemru for parse code!
+
+Also, you need to install youtube-search-python, pytube and moviepy.
